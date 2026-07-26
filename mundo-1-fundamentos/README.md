@@ -1,0 +1,6 @@
+# Mundo 1 - Fundamentos
+
+Aqui ficam as atividades do primeiro módulo do curso de Python: os conceitos básicos da linguagem.
+
+## Aulas
+- (as aulas vão ser adicionadas aqui, uma por uma)
