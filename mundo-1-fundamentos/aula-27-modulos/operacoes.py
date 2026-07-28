@@ -1,5 +1,4 @@
-def somar(a, b):
-       return a + b
+import operacoes
 
-   def subtrair(a, b):
-       return a - b
+   resultado = operacoes.somar(5, 3)
+   print("A soma é:", resultado)
